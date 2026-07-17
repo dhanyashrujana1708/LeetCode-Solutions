@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
