@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,8 +103,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Linked List
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
