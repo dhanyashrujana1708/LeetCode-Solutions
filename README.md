@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Linked List
