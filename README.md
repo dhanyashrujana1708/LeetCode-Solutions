@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0853-car-fleet](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0853-car-fleet) |
 ## Database
