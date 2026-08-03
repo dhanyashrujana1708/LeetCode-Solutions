@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dhanyashrujana1708/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
 | ------- |
